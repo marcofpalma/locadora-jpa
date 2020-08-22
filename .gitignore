@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.metadata/
+locacao-veiculos-services-master/pom.xml
+*.properties
+*.xml
+*.properties
+locacao-veiculos-services-master/src/main/resources/application.properties
+locacao-veiculos-services-master/pom.xml
+*.properties
+*.xml
+*.properties
